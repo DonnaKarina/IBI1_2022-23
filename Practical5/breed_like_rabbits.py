@@ -1,4 +1,4 @@
-#star with the first generation and the two rabbits
+#start with the first generation and the two rabbits
 generation=1
 rabbit=2
 #to ensure the rabbit number is less than 100
