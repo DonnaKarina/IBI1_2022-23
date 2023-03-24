@@ -1,8 +1,8 @@
 #create a list of the cost
 #print the list
+#learn from https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_la$
 cost=[1, 8, 15, 7, 5, 14, 43, 40]
 print(cost)
-#learn from https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_la$
 import matplotlib.pyplot as plt
 import numpy as np
 N=8
