@@ -47,3 +47,9 @@ world_new_cases=covid_data.loc[covid_data.loc[:,'location'] == 'World','new_case
 plt.plot(world_dates, world_new_cases,'b+')
 plt.xticks(world_dates.iloc[0:len(world_dates):4],rotation=-90)
 plt.show()
+new_data = covid_data.loc[covid_data.loc[:,'date']=='2020-03-31',:]
+case_numbers = new_data.loc[new_data.loc[:,'location']=='World', 'total_cases']
+e=new_data.loc[:,'new_cases']
+fig=plt.figure()
+view=plt.boxplot(e)
+plt.show()
