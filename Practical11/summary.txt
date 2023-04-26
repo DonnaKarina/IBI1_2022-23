@@ -1,0 +1,4 @@
+Comparing the protein sequence of human and rat, I found the score is 3579 and the percentage is 82.1%. 
+The score of human and cat is 3717 and the percentage is 85.2%.
+The score of cat and mouse is 3592 and the percentage is 81.7%.
+The results show that human and cat are most closely related. This may because during the evaluation, the mouse's protein first mutated.
