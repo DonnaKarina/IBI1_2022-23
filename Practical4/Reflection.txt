@@ -1,7 +1,4 @@
-# Third note on 7/1/21, yes! I can make changes in both directions!!
-
-# Second note from 7/1/21, I managed to get changes on the ZJE server onto GitHub but can I make changes on the website and send them back?
-
-# Note from 7/1/21, I have cloned this repo onto the ZJE server and am now going to attempt to push it back onto GitHub.
-
-Sooooo difficult! I will try mt best to learn it. TAT
+It' really difficult for me to push the files to Github from my terminal. However, I found I can do this on the website and it is easier to do so.
+I tried really hard, staring at my computer for 4 hours to solve the above problem. TAT
+Today my new problem is that the code that counts childnodes cannot work. I asked for several friends for help but it just don't work.
+In the future, I will learn more about computering and study harder.
